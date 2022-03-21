@@ -1,0 +1,14 @@
+{
+  "name": "post-scheduler",
+  "version": "1.0.0",
+  "description": "schedule article posts to multiple blogs",
+  "main": "index.js",
+  "repository": "https://github.com/Radi-dev/post-scheduler.git",
+  "author": "Radi-dev <evaradi18@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
